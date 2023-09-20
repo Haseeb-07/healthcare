@@ -1,0 +1,16 @@
+.text-justify{
+    font-family: 'Raleway', sans-serif;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+.aboutusdiv{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.align-items-center img{
+    width: 80%;
+}

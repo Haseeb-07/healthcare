@@ -1,0 +1,23 @@
+h3{
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    
+}
+.ourservice{
+    margin-bottom: 50px;
+}
+.services-container{
+    margin-top: 80px;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    text-align: justify; 
+}
+img{
+    width: 50%;
+   margin-left: 60px;
+}
